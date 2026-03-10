@@ -15,8 +15,17 @@ Race Mode	ON/OFF	Permet de s’entraîner à un domaine : sport, musique, progra
 Gossip Mode	ON/OFF	Possibilité de créer ou diffuser des rumeurs sur les réseaux sociaux
 Hacker Mode	ON/OFF	Lecture et apprentissage sur : sécurité physique, sécurité réseau, virus, social engineering, langages de programmation (HTML, dev)
 Artistic Mode	ON/OFF	Possibilité de faire des concerts, préparer des spectacles, activités artistiques
+Out-of-home mode on/off peux tu afficher à l'extérieur ou faire des responsive websites
+
 📱 Services associés
 📰 News service — Accès à l’actualité
 💬 Social media service — Interaction sociale, rumeurs si Gossip Mode activé
 🎵 Music Playlist service — Création et écoute de playlists
 ✈️ Travel service — Gestion des trajets, déplacements, expériences de transport
+chaque expérience a une date début et fin ("celestial transportation experience ou adventure")
+Une expérience a un ou plusieurs maisons
+Pour 1 expérience, 1 user a 0 ou 1 ou plusieurs company et job 
+ Pour 1 expérience, 1 user a 0 ou 1 ou plusieurs school et /ou diploma
+Pour 1 experience 1 user a de 0aplusieurs attractions toruistiques
+
+Une expérience a de 0 à plusieurs indoors adresses / outdoors addresses
