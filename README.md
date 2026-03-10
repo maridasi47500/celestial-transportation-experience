@@ -32,3 +32,7 @@ Pour 1 experience 1 user a de 0aplusieurs attractions toruistiques
 Une expérience a de 0 à plusieurs indoors adresses / outdoors addresses
 Une expérience a une ou plusieurs user skills 
 Une expérience a 1 ou plusieurs hobbys
+
+18+ applications 
+Unsafe mode : utilise des free pics femme/homme faux comptes réseaux /faux showcase website qui est le début de l'expérience , activer plusieurs mode en meme temps
+Carte bancaire
