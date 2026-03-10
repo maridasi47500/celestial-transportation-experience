@@ -36,3 +36,5 @@ Une expérience a 1 ou plusieurs hobbys
 18+ applications 
 Unsafe mode : utilise des free pics femme/homme faux comptes réseaux /faux showcase website qui est le début de l'expérience , activer plusieurs mode en meme temps
 Carte bancaire
+mission :learning hiw to love
+state of the situation : job de chaque voyageur
